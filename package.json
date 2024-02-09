@@ -3,9 +3,9 @@
   "version": "1.0.0",
   "description": "",
   "homepage": "https://main.ddiw3j4p1vxw.amplifyapp.com/",
-  "main": "app.js",
+  "main": "index.js",
   "scripts": {
-    "start": "node app.js"
+    "start": "node index.js"
   },
   "keywords": [],
   "author": "",
