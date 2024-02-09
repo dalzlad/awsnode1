@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "homepage": "https://main.ddiw3j4p1vxw.amplifyapp.com/",
-  "main": "start.js",
+  "main": "app.js",
   "scripts": {
     "start": "node app.js"
   },
